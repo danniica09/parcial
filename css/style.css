@@ -1,14 +1,16 @@
 
+body{
+    background-color: rgb(13, 1,1);
+}
 
-
-h2{
+h1{
     color: blue;
     font-size: 72px;
     text-decoration: none;
 }
 
 
-nav{
+ul{
     width:100%;
     background-color:orange ;
     display: flex;
